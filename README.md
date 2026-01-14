@@ -32,13 +32,13 @@
   I enjoy turning ideas into real products and improving them through architecture,
   testing and automation.
 </p>
-<table align="center">
+<table border="0" align="center">
   <tr>
-    <td width="40%" align="center" valign="middle">
+    <td border="0" width="40%" align="center" valign="middle">
       <img src="./assets/kaneki.png" width="275" alt="Kaneki" />
     </td>
 
-  <td>
+  <td border="0" style="border:none;">
 
   <ul>
     <li>✦ <b>Full-Stack / DevOps</b> · learning every day and shipping features.</li>
