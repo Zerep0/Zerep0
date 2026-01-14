@@ -32,22 +32,20 @@
   I enjoy turning ideas into real products and improving them through architecture,
   testing and automation.
 </p>
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
-  <tr>
-    <td width="40%" align="center" valign="middle" style="border:none; padding:0;">
-      <img src="./assets/kaneki.png" width="275" alt="Kaneki" />
-    </td>
+<div >
+  <img src="./assets/kaneki.png" align="left" width="275" hspace="28" />
 
-  <td width="60%" valign="middle" style="border:none; padding:0 0 0 28px;">
-    <ul style="margin:0; padding-left:18px;">
-      <li>✦ <b>Full-Stack / DevOps</b> · learning every day and shipping features.</li>
-      <li>✦ Ask me about <b>DDD / Clean Architecture</b>, <b>microservices</b>, and frontend/backend design.</li>
-      <li>✦ Languages: <b>Spanish (native)</b> · English and French (improving).</li>
-      <li>✦ Fun fact: I can spend more time polishing Docker/CI than writing the endpoint… and enjoy it 😄</li>
-    </ul>
-  </td>
-  </tr>
-</table>
+  <ul>
+  <br><br>
+  <br><br>
+    <li>✦ <b>Full-Stack / DevOps</b> · learning every day and shipping features.</li>
+    <li>✦ Ask me about <b>DDD / Clean Architecture</b>, <b>microservices</b>, and frontend/backend design.</li>
+    <li>✦ Languages: <b>Spanish (native)</b> · English and French (improving).</li>
+    <li>✦ Fun fact: I can spend more time polishing Docker/CI than writing the endpoint… and enjoy it 😄</li>
+  </ul>
+</div>
+
+<br clear="left" />
 
 
 <br>
