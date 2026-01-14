@@ -1,9 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0f,100:ff0033&height=190&section=header&text=Zerep0&fontColor=ffffff&fontSize=62&animation=fadeIn&desc=Full-Stack%20%2F%20DevOps%20(in%20training)&descAlignY=72&descSize=18" />
-</p>
+<body>
+
 
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/tokyo-ghoul-la/images/8/86/Kaneki_%28kakugan%29.png/revision/latest?cb=20211117034859&path-prefix=es" alt="Kaneki avatar" width="160" />
+  <img src="assets/zerep0_banner.png" />
 </p>
 
 <h1 align="center">Hello 👋, I'm Antonio</h1>
@@ -28,20 +27,36 @@
 
 ## 🧠 About me
 
-- 🧩 Full-Stack & DevOps in training · Turning ideas into software · Naturally curious, learning every day
-- 💬 Ask me about **DDD / Clean Architecture, Microservices (NestJS/Spring), Docker, CI/CD (GitHub Actions), AWS, PostgreSQL/MongoDB, Kafka/RabbitMQ**
-- 📫 Contact: **zerep.a.p.s@gmai.com**
-- ⚡ Fun fact: **puedo pasar más tiempo afinando el Docker Compose/CI que escribiendo el endpoint… y encima me lo paso bien 😄**
-- 🕶️ Vibe: **Tokyo Ghoul — Kaneki pelo blanco**
+<p>
+  I'm a Software Engineer in training focused on building solid, maintainable systems.
+  I enjoy turning ideas into real products and improving them through architecture,
+  testing and automation.
+</p>
+<table align="center">
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <img src="./assets/kaneki.png" width="275" alt="Kaneki" />
+    </td>
 
-> Discord (handle): **_zerepx_**
+  <td>
 
----
+  <ul>
+    <li>✦ <b>Full-Stack / DevOps</b> · learning every day and shipping features.</li>
+    <li>✦ Ask me about <b>DDD / Clean Architecture</b>, <b>microservices</b>, and backend design.</li>
+    <li>✦ Languages: <b>Spanish (native)</b> · English and French (improving).</li>
+    <li>✦ Fun fact: I can spend more time polishing Docker/CI than writing the endpoint… and enjoy it 😄</li>
+  </ul>
+  </td>
+  </tr>
+</table>
+
+
+<br>
 
 ## 🧰 What I know / what I'm learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,cs,spring,nestjs,html,css,tailwind,bootstrap,postgres,mongodb,neo4j,cassandra,aws,docker,kafka,git,github,githubactions,vscode,idea,eclipse&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,cs,spring,nodejs,html,css,tailwind,bootstrap,postgres,mongodb,aws,docker,git,github,vscode,eclipse&theme=dark&perline=10" />
 </p>
 
 ---
@@ -53,38 +68,6 @@
 
 - 🌐 **SolidarianID** — demo online  
   👉 https://solidarianid.com
-
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zerep0&show_icons=true&hide_title=true&rank_icon=github" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=Zerep0" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zerep0&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zerep0" />
-</p>
-
-
----
-
-## ⏱️ WakaTime (cuando lo tengas)
-
-- 👉 https://wakatime.com  
-*(Lo dejo sin widget para que no salga roto si aún no tienes usuario configurado.)*
-
----
-
-## 🧷 Holopin (cuando lo tengas)
-
-- 👉 https://holopin.io  
-*(Lo dejo sin embed para que no salga roto si todavía no has creado tu board.)*
 
 ---
 
