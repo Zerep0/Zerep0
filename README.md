@@ -77,7 +77,6 @@
   <h3>Frontend Development</h3>
   <p>
     <img src="https://img.shields.io/badge/HTML5-b3002d?style=for-the-badge&logo=html5&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/CSS3-2b2b33?style=for-the-badge&logo=css3&logoColor=ff0033" />
     <img src="https://img.shields.io/badge/Tailwind-0b0b0f?style=for-the-badge&logo=tailwindcss&logoColor=ff0033" />
     <img src="https://img.shields.io/badge/Bootstrap-2b2b33?style=for-the-badge&logo=bootstrap&logoColor=ff0033" />
   </p>
@@ -112,6 +111,7 @@
   </tr>
 </table>
 </div>
+
 ---
 
 ## 📌 Featured projects
