@@ -17,8 +17,8 @@
   <a href="https://instagram.com/_perezz003" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@_perezz003-ff69b4" alt="Instagram" />
   </a>
-  <a href="mailto:zerep.a.p.s@gmai.com">
-    <img src="https://img.shields.io/badge/Email-zerep.a.p.s@gmai.com-red" alt="Email" />
+  <a href="mailto:zerep.a.p.s@gmail.com">
+    <img src="https://img.shields.io/badge/Email-zerep.a.p.s@gmail.com-red" alt="Email" />
   </a>
   <a href="https://komarev.com/ghpvc/?username=Zerep0">
     <img src="https://komarev.com/ghpvc/?username=Zerep0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
